@@ -1,0 +1,47 @@
+// Math.random() // ==>(0000 : 0.9999)
+
+// let
+// const 
+
+// document.querySelector('.check')
+// document.querySelector('#check')
+// document.querySelector('body')
+// document.querySelectorAll('.btn')
+
+// document.querySelector('.highscore').textContent = score
+
+/* for input */
+// document.querySelector('.guess').value 
+
+/* for style */
+//document.querySelector('body').style.backgroundColor = 'green'
+//document.querySelector('.number').style.width = '30rem';
+
+/* 
+addEventListener('click', function(){
+    // الكود اللي يتنفذ لما أضغط على الزرار
+})
+*/
+
+/*
+addEventListener('keydown', function (e) {
+  if (e.key === 'Enter') {
+    // الكود اللي يتنفذ لما أضغط على انتر
+  }
+});
+*/
+
+/*
+document.addEventListener('input', function (e) {
+    // الكود اللي يتنفذ لما يدخل انبوت
+  }
+});
+*/
+
+/* for event */
+// 'Enter' - 'Escape' - 'ArrowUp' - 'ArrowDown' - 'ArrowRight' - 'ArrowLeft' - 'm'
+
+
+/*
+https://www.w3schools.com/js/js_syntax.asp
+https://www.w3schools.com/js/js_htmldom.asp
