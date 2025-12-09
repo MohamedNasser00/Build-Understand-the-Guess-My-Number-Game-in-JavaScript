@@ -38,9 +38,41 @@ document.addEventListener('input', function (e) {
 });
 */
 
-/* for event */
-// 'Enter' - 'Escape' - 'ArrowUp' - 'ArrowDown' - 'ArrowRight' - 'ArrowLeft' - 'm'
+/* for event of 'keydown'
+'Enter' - 'Escape' - 'ArrowUp' - 'ArrowDown' - 'ArrowRight' - 'ArrowLeft' - 'm'
+*/
+// Example
+/*
+document.addEventListener('keydown', function (e) {
+  if (e.key === 'Enter') {
+    // كود لما المستخدم يدوس Enter
+  }
 
+  if (e.key === 'Escape') {
+    // كود لما المستخدم يدوس Escape
+  }
+
+  if (e.key === 'ArrowUp') {
+    // كود لما المستخدم يدوس Arrow Up
+  }
+
+  if (e.key === 'ArrowDown') {
+    // كود لما المستخدم يدوس Arrow Down
+  }
+
+  if (e.key === 'ArrowRight') {
+    // كود لما المستخدم يدوس Arrow Right
+  }
+
+  if (e.key === 'ArrowLeft') {
+    // كود لما المستخدم يدوس Arrow Left
+  }
+
+  if (e.key === 'm') {
+    // كود لما المستخدم يدوس حرف m
+  }
+});
+*/
 
 /*
 https://www.w3schools.com/js/js_syntax.asp
